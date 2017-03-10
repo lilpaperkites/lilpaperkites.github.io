@@ -1,0 +1,21 @@
+# Site settings
+title: Caitlin L, Blogger
+header-img: img/home-bg.png
+email: malfene@netscape.net
+copyright_name: lilpaperkites
+description: > # this means to ignore newlines until "baseurl:"
+  A coder grows in Brooklyn
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  lilpaperkites
+learn_profile: lilpaperkites
+email_username: malfene@netscape.net
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
