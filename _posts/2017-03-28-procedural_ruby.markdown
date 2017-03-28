@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Procedural Ruby"
-date:   2017-03-28 19:26:21 +0000
+date:   2017-03-28 15:26:22 -0400
 ---
 
 
